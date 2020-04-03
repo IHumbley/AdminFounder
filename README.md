@@ -14,7 +14,6 @@ If the telegram is filtered in your country please use Tor to use this program
 
 # Requirements
 -   Python _v3.x.x_
--   Tor
 
 **Run**  
 1. git clone https://github.com/MrSubmissive/AdminFounder
